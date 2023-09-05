@@ -1,3 +1,10 @@
+//
+// Homework 1
+// CS 341 Fall 2023
+// Jimmy Patel
+//
+
+
 #include<iostream>
 #include<fstream>
 #include<string>
