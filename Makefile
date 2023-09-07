@@ -5,4 +5,4 @@ Homework.o: Homework1.cpp
 	g++ -g Homework1.cpp -c -o Homework1.o
 
 clean:
-	rm -rf Homework1.o Homework1 d
+	rm -rf Homework1.o Homework1
